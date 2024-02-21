@@ -1,1 +1,23 @@
 /* your code here */
+.content{
+	background-color:black;
+	height:300px;
+	width:500px;
+}
+.logo_name{
+	color:white;
+	font-size:30px;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+}
+.media-icons{
+	color:white;
+.link-boxes{
+	color:white;
+}
+.table-data{
+    color: white;
+    text-decoration: underline;
+}
