@@ -14,8 +14,10 @@
 }
 .media-icons{
 	color:white;
+	display:flex;
 .link-boxes{
 	color:white;
+	display:flex;
 }
 .table-data{
     color: white;
