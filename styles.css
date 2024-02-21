@@ -18,7 +18,7 @@
 	text-decoration:none !important;
 .link-boxes{
 	color:white;
-	display:flex;
+	  display: flex !important;
 	justify-content:space-between;
 }
 .bottom-details{
