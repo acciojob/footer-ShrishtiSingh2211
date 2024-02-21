@@ -15,11 +15,17 @@
 .media-icons{
 	color:white;
 	display:flex;
+	text-decoration:none !important;
 .link-boxes{
 	color:white;
 	display:flex;
+	justify-content:space-between;
+	align-items:center
 }
-.table-data{
-    color: white;
-    text-decoration: underline;
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	background-color:gray;
+	color:white;
+	font-size:20px;
 }
